@@ -1,0 +1,3 @@
+import ScheduleDetailsMessagePreview from './scheduleDetailsMessagePreview.component'
+
+export default ScheduleDetailsMessagePreview
